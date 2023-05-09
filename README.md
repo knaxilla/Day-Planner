@@ -11,5 +11,3 @@ Front-End (no installation required)
 ## Usage
 
 ![image](https://user-images.githubusercontent.com/123846514/228990996-029f4dbd-6fd8-4e82-bae0-b44b2e575d77.png)
-
-http://127.0.0.1:5500/05-Third-Party-APIs/02-Challenge/Develop/index.html
